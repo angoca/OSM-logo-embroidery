@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.267838mm"
+   height="15.91173mm"
+   viewBox="0 0 77.294625 17.502903"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="Letters-SURVEYOR.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <metadata
+     id="metadata6192">
+    <inkstitch:collapse_len_mm />
+    <inkstitch:min_stitch_len_mm />
+    <inkstitch:thread-palette />
+    <inkstitch:title>&quot;Letras SURVEYOR&quot;</inkstitch:title>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.1597197"
+     inkscape:cx="110.29459"
+     inkscape:cy="36.553875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1450"
+     scale-x="1.1" />
+  <defs
+     id="defs2">
+    <symbol
+       id="inkstitch_trim">
+      <title
+         id="inkstitch_title9282">Trim the thread after sewing this object.</title>
+      <path
+         id="inkstitch_circle13405"
+         d="m 9.2465284,-8.6e-6 c 1.8e-6,2.452339 -0.9741847,4.804237 -2.7082493,6.538304 C 4.8042146,8.2723614 2.4523174,9.2465504 -2.1625959e-5,9.2465514 -2.4523623,9.2465534 -4.8042621,8.2723654 -6.5383288,6.5382984 -8.2723956,4.8042314 -9.2465834,2.4523324 -9.2465816,-8.6e-6 c 6e-7,-2.452339 0.9741895,-4.804237 2.708256,-6.538301 1.7340665,-1.734065 4.0859648,-2.708252 6.538303974041,-2.70825 C 5.1067066,-9.2465576 9.2465271,-5.1067366 9.2465284,-8.6e-6 c 0,0 0,0 0,0"
+         style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.195, 3.195;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#050505;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m -3.0000256,-5.9834096 c -1.30575,0 -2.375,1.06924 -2.375,2.375 0,1.30575 1.06925,2.375 2.375,2.375 0.58687,0 1.11944,-0.22369 1.53516,-0.58007 0,0 0.61717997,1.62109 0.61717997,1.62109 0,0 -2.29881997,6.01758 -2.29881997,6.01758 0.98655,-0.12511 1.23728,-0.26171 1.67382,-0.97461 0,0 1.33007997,-3.18945 1.33007997,-3.18945 0,0 1.23633003,3.25 1.23633003,3.25 0.23227,0.77906 0.84315,0.79218 1.57813,1.07226 0,0 -2.05469003,-6.14258 -2.05469003,-6.14258 0,0 0.73047003,-1.75 0.73047003,-1.75 0.42849,0.41682 1.01136,0.67578 1.65234,0.67578 1.30575,0 2.375,-1.06925 2.375,-2.375 0,-1.30576 -1.06925,-2.375 -2.375,-2.375 -1.06233,0 -1.95701,0.71265 -2.25781003,1.67969 0,0 -0.0117,-0.0156 -0.0117,-0.0156 0,0 -0.80274,2.10156 -0.80274,2.10156 0,0 -0.59179,-1.76562 -0.59179,-1.76562 -0.18242,-1.12808 -1.15864997,-2 -2.33593997,-2 0,0 -2e-5,-3e-5 -2e-5,-3e-5 m 0,1 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0 m 6,0 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0"
+         id="inkstitch_path13416"
+         inkscape:connector-curvature="0" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.8654,-146.844)">
+    <g
+       aria-label="SURVEYOR"
+       transform="rotate(-116.9729,105.18837,223.80425)"
+       id="text1450"
+       style="font-size:9.31333px;line-height:1.25;stroke-width:0.291042">
+      <path
+         d="m 181.56936,217.02703 q -1.33206,-0.0709 -2.10739,-1.24756 -0.76961,-1.17033 -0.66654,-3.10787 0.0596,-1.12014 0.29779,-1.9454 0.24394,-0.81888 0.58533,-1.52935 l 2.16157,0.11498 -0.0135,0.25431 q -0.61354,0.68992 -0.96968,1.56355 -0.35646,0.87969 -0.40027,1.70315 -0.0113,0.21191 0.007,0.55897 0.018,0.34706 0.0911,0.56954 0.0948,0.27221 0.24928,0.45044 0.15414,0.18429 0.47504,0.20136 0.29669,0.0158 0.52214,-0.22725 0.23117,-0.23665 0.37198,-0.71492 0.14815,-0.50216 0.28136,-1.06584 0.13894,-0.5573 0.32884,-1.0451 0.42989,-1.11865 1.08633,-1.58771 0.66216,-0.46267 1.60066,-0.41275 1.2594,0.067 1.99268,1.23539 0.739,1.17476 0.64463,2.94882 -0.0473,0.89006 -0.269,1.74656 -0.21591,0.86288 -0.51009,1.48478 l -2.0768,-0.11047 0.0132,-0.24825 q 0.46494,-0.52175 0.79776,-1.29947 0.33856,-0.77134 0.38237,-1.5948 0.0155,-0.29063 -0.0115,-0.58351 -0.0212,-0.28651 -0.116,-0.55872 -0.0783,-0.24097 -0.25694,-0.42049 -0.17263,-0.1792 -0.40877,-0.19176 -0.35723,-0.019 -0.56548,0.24316 -0.20219,0.26248 -0.39988,1.01096 -0.12934,0.49102 -0.25038,0.93997 -0.12135,0.45502 -0.31891,0.97277 -0.39415,1.01734 -1.00755,1.47653 -0.60768,0.46558 -1.54012,0.41598 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path944"
+         inkstitch:angle="23" />
+      <g
+         id="command_group1"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector1"
+           d="M 6.0202716,-3.2230176 14.208959,25.631721"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use2173"
+           inkscape:connection-end="#path944"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use2173"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="6.0176916"
+           y="-3.2588649"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 180.45309,226.81719 q -1.64984,-0.28035 -2.35791,-1.43392 -0.70807,-1.15358 -0.37591,-3.10828 0.33216,-1.9547 1.38153,-2.80964 1.04835,-0.84895 2.69222,-0.56961 l 5.68478,0.966 -0.39209,2.30739 -5.55327,-0.94366 q -0.92654,-0.15744 -1.44687,0.15391 -0.52033,0.31135 -0.66864,1.18409 -0.14627,0.86079 0.22306,1.32947 0.36832,0.47465 1.33073,0.63819 l 5.55327,0.94366 -0.39209,2.30739 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path946"
+         inkstitch:angle="17" />
+      <g
+         id="command_group2"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector2"
+           d="m 48.345334,-17.722534 0.70055,45.788503"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use4960"
+           inkscape:connection-end="#path946"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use4960"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="48.342754"
+           y="-17.758381"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 181.26983,235.04215 q 0.32536,0.0971 0.59765,0.0329 0.27229,-0.0643 0.50304,-0.34974 0.1606,-0.19885 0.26821,-0.49577 0.11342,-0.29518 0.23308,-0.69608 l 0.24106,-0.8076 -2.32984,-0.69543 -0.20464,0.68559 q -0.15955,0.53452 -0.21478,0.91036 -0.0552,0.37583 0.0579,0.67535 0.11074,0.28616 0.2945,0.45491 0.18783,0.17629 0.55387,0.28555 z m -7.04062,1.68876 0.81336,-2.72493 3.8764,-1.41199 0.30697,-1.02838 -3.1723,-0.9469 0.66248,-2.21945 8.6512,2.5823 -1.11686,3.74168 q -0.22892,0.76693 -0.48082,1.29288 -0.25191,0.52594 -0.68635,0.92146 -0.43618,0.40134 -0.98597,0.54729 -0.54571,0.1535 -1.24291,-0.0546 -0.95867,-0.28615 -1.42938,-0.91389 -0.47244,-0.62193 -0.62707,-1.56662 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path948"
+         inkstitch:angle="10" />
+      <g
+         id="command_group3"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector3"
+           d="M 74.047197,-23.493301 82.615608,5.4015416"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use7969"
+           inkscape:connection-end="#path948"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use7969"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="74.044617"
+           y="-23.529148"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 178.83252,248.77722 -6.97937,-6.60604 1.03505,-2.39299 9.59351,0.56233 -0.97007,2.24274 -6.68766,-0.5144 4.95454,4.52127 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path950"
+         inkstitch:angle="4" />
+      <g
+         id="command_group4"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector4"
+           d="m 119.77301,-28.677265 -0.94803,44.791027"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use9090"
+           inkscape:connection-end="#path950"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use9090"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="119.77043"
+           y="-28.713112"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 166.65264,251.99513 3.23578,-5.67221 7.84208,4.47361 -3.23578,5.67221 -1.5168,-0.86528 2.08808,-3.66034 -1.35353,-0.77214 -1.93787,3.39701 -1.5168,-0.86528 1.93786,-3.39701 -1.93814,-1.10563 -2.08808,3.66034 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path952"
+         inkstitch:angle="-3" />
+      <g
+         id="command_group5"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector5"
+           d="m 152.07633,-29.313247 0.57823,30.02604604"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use2614"
+           inkscape:connection-end="#path952"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use2614"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="152.07375"
+           y="-29.349094"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 168.25023,265.37227 -2.53574,-5.94111 -2.83023,-2.0463 1.3642,-1.88682 2.74179,1.98235 6.55692,0.56569 -1.54893,2.14233 -3.97418,-0.46412 1.72537,3.57443 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path954"
+         inkstitch:angle="-9" />
+      <g
+         id="command_group6"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector6"
+           d="m 178.09296,-27.511955 7.7704,42.351027"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use662"
+           inkscape:connection-end="#path954"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use662"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="178.09038"
+           y="-27.547802"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 157.50536,270.51398 q -1.58567,-1.46458 -1.68179,-3.23717 -0.0917,-1.76848 1.38938,-3.37197 1.47693,-1.59904 3.24711,-1.64786 1.77463,-0.0447 3.36031,1.41988 1.59904,1.47693 1.68625,3.24129 0.0917,1.76847 -1.38527,3.36752 -1.47282,1.59458 -3.24711,1.64786 -1.76983,0.0574 -3.36888,-1.41955 z m 0.41482,-3.81814 q 0.0725,0.52918 0.3712,1.02793 0.30316,0.50287 0.85993,1.01712 0.59686,0.55128 1.14308,0.79992 0.54623,0.24863 1.01027,0.26454 0.47706,0.0197 0.87296,-0.16767 0.39179,-0.1829 0.688,-0.5036 0.30032,-0.32515 0.45192,-0.72163 0.14749,-0.39203 0.1024,-0.8794 -0.0437,-0.45309 -0.35305,-1.00291 -0.30897,-0.54125 -0.88801,-1.07607 -0.5924,-0.54717 -1.13451,-0.80026 -0.54177,-0.24452 -1.01027,-0.26454 -0.4685,-0.02 -0.86885,0.16321 -0.40036,0.18324 -0.70479,0.51285 -0.30444,0.32961 -0.45536,0.74323 -0.14647,0.41773 -0.0849,0.88728 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path956"
+         inkstitch:angle="-14" />
+      <g
+         id="command_group7"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector7"
+           d="m 204.80718,-17.244226 9.12388,28.497456"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use4769"
+           inkscape:connection-end="#path956"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use4769"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="204.8046"
+           y="-17.280073"
+           inkscape:label="command marker" />
+      </g>
+      <path
+         d="m 153.04388,276.69385 q 0.21925,0.25927 0.48234,0.35442 0.2631,0.0951 0.61242,-0.0176 0.24321,-0.0786 0.49571,-0.26832 0.25641,-0.18507 0.57587,-0.45522 l 0.64356,-0.54421 -1.57,-1.85658 -0.54633,0.46199 q -0.42595,0.3602 -0.67776,0.64461 -0.25182,0.28441 -0.32098,0.59701 -0.0638,0.30013 -0.002,0.54191 0.0608,0.25033 0.30747,0.54201 z m -6.81771,-2.43745 2.17141,-1.83623 4.01744,0.93833 0.81948,-0.69299 -2.1377,-2.52791 1.76861,-1.49561 5.82974,6.89388 -2.98163,2.52139 q -0.61115,0.51681 -1.10971,0.81931 -0.49857,0.30249 -1.07861,0.39596 -0.58467,0.0974 -1.12475,-0.0812 -0.54079,-0.17 -1.01062,-0.72558 -0.64601,-0.76393 -0.69669,-1.54691 -0.0553,-0.77906 0.33198,-1.65448 z"
+         style="font-weight:bold;font-size:12.4178px;-inkscape-font-specification:'sans-serif, Bold'"
+         id="path958"
+         inkstitch:angle="-23" />
+      <g
+         id="command_group8"
+         inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
+         transform="matrix(-0.132008,0.259383,-0.259383,-0.132008,196.599,213.868)"
+         style="display:none">
+        <path
+           id="command_connector8"
+           d="M 239.56615,-8.8069852 247.43912,21.07779"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+           inkscape:connection-start="#command_use7643"
+           inkscape:connection-end="#path958"
+           inkscape:label="connector"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <use
+           id="command_use7643"
+           xlink:href="#inkstitch_trim"
+           height="100%"
+           width="100%"
+           x="239.56357"
+           y="-8.8428326"
+           inkscape:label="command marker" />
+      </g>
+    </g>
+    <circle
+       style="display:none;fill:none;stroke:#a6dd8b;stroke-width:1.27922;stroke-linecap:round"
+       id="path882"
+       cx="97.20285"
+       cy="208.50412"
+       r="81.86039" />
+  </g>
+</svg>
